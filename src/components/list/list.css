@@ -1,0 +1,21 @@
+.Container {
+  border-radius: 5px;
+  box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2);
+  overflow: hidden;
+  width: 350px;
+}
+
+header {
+  background-color: rgb(78, 137, 248);
+  padding: 10px;
+  color: #fff;
+}
+
+.user-list {
+  background-color: #fff;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  max-height: 550px;
+  overflow-y: auto;
+}

@@ -1,5 +1,13 @@
 .App {
-  text-align: center;
+  /* text-align: center; */
+  background-color: #eaeaee;
+  font-family: 'Roboto', sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  overflow: hidden;
+  margin: 0;
 }
 
 .App-logo {
